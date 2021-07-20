@@ -1,8 +1,8 @@
 # Setup
-title: 개발자츄츄 성장일기
-description: A simple, beautiful, and powerful Jekyll theme for blogs
-url: https://mkchu125.github.io
-baseurl : "/mkchu125"
+title: 개발자 츄츄 성장일기
+description: 공부하는 초보 개발자 츄츄입니다.
+url: "https://mkchu125.github.io"
+baseurl :
 avatar: /avatar.jpeg
 paginate: 5
 permalink: pretty
